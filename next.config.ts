@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const repo = "actionproof-20261016";
-const isPages = process.env.GITHUB_ACTIONS === "true";
+const isPages = process.env.PAGES_BUILD === "true";
 const config: NextConfig = {
   output: "export",
   trailingSlash: true,
