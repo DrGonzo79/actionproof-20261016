@@ -1,0 +1,6 @@
+html, body { max-width: 100%; overflow-x: hidden; }
+.workspace, .queue, .table { min-width: 0; width: 100%; }
+@media (max-width: 620px) {
+  .table { display: block; max-width: 100%; overflow-x: auto; overscroll-behavior-inline: contain; }
+  .manual { position: relative; z-index: 1; }
+}

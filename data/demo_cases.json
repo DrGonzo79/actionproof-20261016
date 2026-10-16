@@ -1,0 +1,7 @@
+[
+  {"id":"EX-1048","ticketId":"G-88421","customer":"Maya Chen","action":"refund","promisedAmount":129.40,"actualAmount":89.40,"promisedState":"completed","actualState":"completed","agent":"Gorgias AI","ageMinutes":46,"orderId":"#48191"},
+  {"id":"EX-1047","ticketId":"G-88398","customer":"Noah Williams","action":"cancel_subscription","promisedAmount":0,"actualAmount":0,"promisedState":"completed","actualState":"missing","agent":"Siena AI","ageMinutes":91,"orderId":"#48172"},
+  {"id":"EX-1046","ticketId":"G-88374","customer":"Priya Shah","action":"refund","promisedAmount":64.00,"actualAmount":128.00,"promisedState":"completed","actualState":"completed","agent":"Gorgias AI","ageMinutes":128,"orderId":"#48155"},
+  {"id":"EX-1045","ticketId":"G-88311","customer":"Liam Garcia","action":"return_label","promisedAmount":0,"actualAmount":0,"promisedState":"completed","actualState":"pending","agent":"Yuma AI","ageMinutes":18,"orderId":"#48107"},
+  {"id":"EX-1044","ticketId":"G-88290","customer":"Ava Martin","action":"discount","promisedAmount":25.00,"actualAmount":25.00,"promisedState":"completed","actualState":"completed","agent":"Gorgias AI","ageMinutes":12,"orderId":"#48088"}
+]
